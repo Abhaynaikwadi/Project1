@@ -17,4 +17,4 @@ Using html and css
  
 
  
- [Live link](https://glistening-cucurucho-e41b44.netlify.app)
+ [Live link](https://jade-otter-7acf25.netlify.app/)
